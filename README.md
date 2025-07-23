@@ -1,4 +1,4 @@
-## Olá! Eu sou o (Dom Henrique)[]!
+## Olá! Eu sou o [Dom Henrique](https://github.com/Dom-Henrique)!
 
 - Acadêmico de Ciência da Computação;
 - Católico Apostólico Romano;
