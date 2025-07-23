@@ -1,8 +1,8 @@
-## Hello! My name is Dom Henry!
+## Olá! Eu sou o (Dom Henrique)[]!
 
-- Computer Science student;
-- Catholic apostolic roman;
-- I've been coursed computing in my high school;
-- Focusing in frontend, mobile and game development.
+- Acadêmico de Ciência da Computação;
+- Católico Apostólico Romano;
+- Cursei Ensino Médio integrado com Informática;
+- Focando em desenvolvimento frontend, mobile e de jogos.
 
 #### *Fé em Deus*
