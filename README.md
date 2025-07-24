@@ -27,4 +27,4 @@
 <br>
 
 
-![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-donne&show_icons=true&theme=dark)
+![Dom Henrique](https://github-readme-stats.vercel.app/api?username=el-donne&show_icons=true&theme=dark)
