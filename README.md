@@ -28,3 +28,4 @@
 
 
 ![Dom Henrique](https://github-readme-stats.vercel.app/api?username=el-donne&show_icons=true&theme=dark&locale=pt-br&icon_color=ffffff&custom_title=Dom)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-henrique&layout=compact&theme=dark&locale=pt-br&custom_title=Tecnologias)
